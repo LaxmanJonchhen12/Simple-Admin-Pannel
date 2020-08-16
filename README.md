@@ -1,2 +1,2 @@
 # Try-Codes
-testing codes of admin panel
+simple admin pannel using html and css
